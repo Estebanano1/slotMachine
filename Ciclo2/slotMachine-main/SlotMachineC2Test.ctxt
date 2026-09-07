@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Sep 06 18:08:46 COT 2026
+comment0.target=SlotMachineC2Test
+comment1.target=void setUp()
+comment2.target=void accordingAmOrShouldLockAndUnlockWheel()
+comment3.target=void accordingAmOrShouldSwapWheels()
+comment4.target=void accordingAmOrShouldSpinGivenConfiguration()
+numComments=5

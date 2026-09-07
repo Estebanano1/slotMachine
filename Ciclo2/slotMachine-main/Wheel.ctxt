@@ -1,0 +1,30 @@
+#BlueJ class context
+#Sun Sep 06 17:54:46 COT 2026
+comment0.target=Wheel
+comment0.text=\r\n Representa una rueda de la maquina tragamonedas.\r\n
+comment1.params=x y
+comment1.target=Wheel(int, int)
+comment10.target=void makeVisible()
+comment11.target=void makeInvisible()
+comment12.target=void hideSymbols()
+comment13.target=void highlightJackpot()
+comment14.target=void clearJackpotAppearance()
+comment15.params=x y
+comment15.target=void setPosition(int, int)
+comment16.target=Symbol getCurrentSymbol()
+comment17.target=java.util.ArrayList getSymbols()
+comment18.target=int size()
+comment2.target=void lock()
+comment3.target=void unlock()
+comment4.target=boolean isLocked()
+comment5.params=symbol
+comment5.target=void addSymbol(Symbol)
+comment6.params=position
+comment6.target=void removeSymbol(int)
+comment7.target=void spin()
+comment8.params=steps
+comment8.target=void spinSteps(int)
+comment8.text=\r\n Rota la rueda un n\u00FAmero espec\u00EDfico de pasos.\r\n Si la m\u00E1quina est\u00E1 visible, anima el paso a paso en el Canvas.\r\n
+comment9.params=color
+comment9.target=void setSymbolByColor(java.lang.String)
+numComments=19
