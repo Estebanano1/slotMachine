@@ -1,0 +1,15 @@
+#BlueJ class context
+#Sun Sep 20 18:16:26 COT 2026
+comment0.target=SlotMachineC2Test
+comment0.text=\r\n Casos de prueba de unidad para SlotMachine (Ciclo 2).\r\n Valida cambios de estado reales y evita excepciones en tiempo de ejecuci\u00F3n.\r\n
+comment1.target=void setUp()
+comment10.target=void shouldNotPerformOperationsWithInvalidWheelIndex()
+comment2.target=void shouldNotSpinLockedWheelButShouldSpinWhenUnlocked()
+comment3.target=void shouldSetSpecificConfigurationAndCheckJackpotCorrectly()
+comment4.target=void shouldDetectJackpotWhenAllSymbolsAreEquals()
+comment5.target=void shouldSwapTwoWheelsWithoutAffectingOthers()
+comment6.target=void shouldAddWheelAndIncreaseTotalWheels()
+comment7.target=void shouldDeleteWheelAndDecreaseTotalWheels()
+comment8.target=void shouldAddSymbolToSpecificWheel()
+comment9.target=void shouldDeleteSymbolFromAllWheels()
+numComments=11

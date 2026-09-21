@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Sep 20 18:16:29 COT 2026
+comment0.target=SlotMachineContest
+comment0.text=\r\n Solucionador y simulador para el concurso Slot Machine (Ciclo 3).\r\n Requisitos 14 y 15.\r\n
+comment1.target=SlotMachineContest()
+comment2.params=n
+comment2.target=int solve(int)
+comment2.text=\r\n Retorna la cantidad m\u00EDnima de pasos/acciones necesarias para ganar.\r\n La m\u00E1quina se mantiene INVISIBLE durante este proceso.\r\n \r\n @param n N\u00FAmero de ruedas y s\u00EDmbolos\r\n @return N\u00FAmero de movimientos o pasos necesarios\r\n
+comment3.params=n
+comment3.target=void simulate(int)
+comment3.text=\r\n\r\n La m\u00E1quina se mantiene VISIBLE durante este proceso.\r\n \r\n @param n N\u00FAmero de ruedas y s\u00EDmbolos\r\n
+comment4.target=boolean ok()
+comment4.text=\r\n Consulta el estado de la \u00FAltima operaci\u00F3n realizada.\r\n @return true si la \u00FAltima operaci\u00F3n fue exitosa, false de lo contrario.\r\n
+numComments=5

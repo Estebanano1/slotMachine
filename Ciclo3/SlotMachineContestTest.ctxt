@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Sep 20 18:16:29 COT 2026
+comment0.target=SlotMachineContestTest
+comment0.text=\r\n Pruebas de unidad para SlotMachineContest (Ciclo 3).\r\n
+comment1.target=void setUp()
+comment2.target=void shouldSolveContestWithValidN()
+comment3.target=void shouldNotSolveWithInvalidN()
+comment4.target=void shouldSimulateContestWithValidN()
+comment5.target=void shouldNotSimulateWithInvalidN()
+numComments=6
