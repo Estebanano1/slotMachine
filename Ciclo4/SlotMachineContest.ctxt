@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sun Oct 04 21:31:09 COT 2026
+comment0.target=SlotMachineContest
+comment0.text=\r\n Clase SlotMachineContest para resolver y simular el problema de la marat\u00F3n (Ciclo 3).\r\n
+comment1.target=SlotMachineContest()
+comment2.params=n
+comment2.target=int[][] solve(int)
+comment2.text=\r\n Resuelve el problema respetando estrictamente las restricciones del enunciado\:\r\n - Permanece invisible.\r\n - Solo utiliza SlotMachine(n), spin(wheel, steps) y distinctSymbols().\r\n \r\n @param n N\u00FAmero de ruedas y s\u00EDmbolos (debe ser > 0).\r\n @return Matriz int[][] con las acciones {rueda, pasos} o una matriz vac\u00EDa si n es inv\u00E1lido.\r\n
+comment3.params=n
+comment3.target=void simulate(int)
+comment3.text=\r\n Simula las acciones calculadas por solve(n) haciendo visible la interfaz gr\u00E1fica.\r\n \r\n @param n N\u00FAmero de ruedas y s\u00EDmbolos.\r\n
+numComments=4

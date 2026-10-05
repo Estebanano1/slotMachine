@@ -1,0 +1,31 @@
+#BlueJ class context
+#Sun Oct 04 21:20:05 COT 2026
+comment0.target=Wheel
+comment0.text=\r\n Representa la clase base para una rueda de la maquina tragamonedas.\r\n Preparada para extensiones polim\u00F3rficas (RebelWheel, LeftyWheel, etc.).\r\n
+comment1.params=x y
+comment1.target=Wheel(int, int)
+comment10.target=void makeVisible()
+comment11.target=void makeInvisible()
+comment12.target=void hideSymbols()
+comment13.target=void highlightJackpot()
+comment14.target=void clearJackpotAppearance()
+comment15.params=x y
+comment15.target=void setPosition(int, int)
+comment16.target=Symbol getCurrentSymbol()
+comment17.target=java.util.ArrayList getSymbols()
+comment18.target=int size()
+comment19.target=boolean isRebel()
+comment2.target=boolean lock()
+comment3.target=void unlock()
+comment4.target=boolean isLocked()
+comment5.params=symbol
+comment5.target=void addSymbol(Symbol)
+comment6.params=position
+comment6.target=void removeSymbol(int)
+comment7.target=void spin()
+comment8.params=steps
+comment8.target=void spinSteps(int)
+comment8.text=\r\n Rota la rueda un numero especifico de pasos.\r\n
+comment9.params=color
+comment9.target=void setSymbolByColor(java.lang.String)
+numComments=20

@@ -1,0 +1,22 @@
+#BlueJ class context
+#Sun Oct 04 20:56:47 COT 2026
+comment0.target=Robot
+comment0.text=\r\n Se crea la clase robot, para el juego RobotMaze.\r\n \r\n @author Alfonso-Orduz\r\n @version (a version number or a date)\r\n
+comment1.params=x y
+comment1.target=Robot(int, int)
+comment1.text=\r\n Crea un robot en la posicion indicada.\r\n
+comment2.target=int[] coordinates()
+comment2.text=\r\n Muestra las coordenadas en las que esta el robot.\r\n
+comment3.target=char direction()
+comment3.text=\r\n Muestra la direccion en la que esta viendo el robot.\r\n
+comment4.params=newDirection
+comment4.target=void turn(char)
+comment4.text=\r\n Voltea el robot a cualquier direccion\r\n
+comment5.params=cantMovimiento
+comment5.target=void move(int)
+comment5.text=\r\n Mueve el robot segun en la direccion en la que esta viendo \r\n
+comment6.target=void makeVisible()
+comment6.text=\r\n Hace visible el robot\r\n
+comment7.target=void makeInvisible()
+comment7.text=\r\n Hace invisible al robot\r\n
+numComments=8

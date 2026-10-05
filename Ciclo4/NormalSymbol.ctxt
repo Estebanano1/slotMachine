@@ -1,0 +1,16 @@
+#BlueJ class context
+#Sun Oct 04 21:20:05 COT 2026
+comment0.target=NormalSymbol
+comment1.params=color shape
+comment1.target=NormalSymbol(java.lang.String, java.lang.String)
+comment2.params=x y
+comment2.target=void moveTo(int, int)
+comment3.params=horizontal vertical
+comment3.target=void moveShapes(int, int)
+comment4.target=int getBaseX()
+comment5.target=int getBaseY()
+comment6.target=void onSpin()
+comment7.target=void draw()
+comment8.target=void makeInvisible()
+comment9.target=void makeInvisibleShapes()
+numComments=10

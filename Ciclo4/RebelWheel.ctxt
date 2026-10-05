@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Oct 04 21:20:05 COT 2026
+comment0.target=RebelWheel
+comment0.text=\r\n Rueda Rebelde\: No se deja bloquear ni intercambiar ni eliminar.\r\n
+comment1.params=x y
+comment1.target=RebelWheel(int, int)
+comment2.target=boolean lock()
+comment3.target=boolean isRebel()
+numComments=4

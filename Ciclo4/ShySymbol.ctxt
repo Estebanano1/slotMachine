@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Oct 04 21:20:05 COT 2026
+comment0.target=ShySymbol
+comment1.params=color shape
+comment1.target=ShySymbol(java.lang.String, java.lang.String)
+comment2.target=void onSpin()
+comment3.target=void draw()
+numComments=4

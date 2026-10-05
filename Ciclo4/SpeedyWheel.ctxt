@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Oct 04 21:20:05 COT 2026
+comment0.target=SpeedyWheel
+comment0.text=\r\n Rueda Speedy\: Duplica la cantidad de pasos en cada giro.\r\n
+comment1.params=x y
+comment1.target=SpeedyWheel(int, int)
+comment2.params=steps
+comment2.target=void spinSteps(int)
+numComments=3

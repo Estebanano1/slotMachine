@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Oct 04 21:35:41 COT 2026
+comment0.target=SymbolC4Test
+comment0.text=\r\n Pruebas unitarias para verificar el comportamiento individual de las subclases de Symbol.\r\n
+comment1.target=void testEphemeralSymbolReducesSizeOnSpin()
+comment2.target=void testShySymbolTogglesVisibilityOnSpin()
+comment3.target=void testGoldenSymbolPointsOrBonus()
+comment4.target=void testNormalSymbolBehavior()
+numComments=5

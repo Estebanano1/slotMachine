@@ -1,0 +1,33 @@
+#BlueJ class context
+#Sun Oct 04 21:20:02 COT 2026
+comment0.target=Symbol
+comment0.text=\r\n Clase base abstracta que representa un s\u00EDmbolo de la m\u00E1quina tragamonedas.\r\n Permite extensiones polim\u00F3rficas como EphemeralSymbol, ShySymbol, etc.\r\n
+comment1.params=color shape
+comment1.target=Symbol(java.lang.String, java.lang.String)
+comment1.text=\r\n Constructor base de Symbol.\r\n \r\n @param color Color del s\u00EDmbolo.\r\n @param shape Forma geom\u00E9trica (circle, rectangle, triangle).\r\n
+comment10.target=java.lang.String getShape()
+comment11.target=boolean isVisible()
+comment12.target=int getSize()
+comment13.target=java.lang.String toString()
+comment14.params=other
+comment14.target=boolean equals(java.lang.Object)
+comment15.target=int hashCode()
+comment16.params=jackpot
+comment16.target=void setJackpotAppearance(boolean)
+comment16.text=\r\n Cambia la apariencia del s\u00EDmbolo cuando hay jackpot.\r\n \r\n @param jackpot true para aumentar o resaltar el s\u00EDmbolo.\r\n
+comment17.target=int getBaseX()
+comment18.target=int getBaseY()
+comment2.target=void onSpin()
+comment2.text=\r\n M\u00E9todo polim\u00F3rfico que define la reacci\u00F3n del s\u00EDmbolo al girar la rueda.\r\n
+comment3.target=void draw()
+comment3.text=\r\n Dibuja o actualiza la representaci\u00F3n gr\u00E1fica del s\u00EDmbolo en el Canvas.\r\n
+comment4.target=void makeVisible()
+comment5.target=void makeInvisible()
+comment6.params=x y
+comment6.target=void moveTo(int, int)
+comment7.params=distance
+comment7.target=void moveHorizontal(int)
+comment8.params=distance
+comment8.target=void moveVertical(int)
+comment9.target=java.lang.String getColor()
+numComments=19
